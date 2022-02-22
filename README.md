@@ -4,5 +4,4 @@ I learned how to use html elements and switch to different pages. I also strengh
 
 live preview
 
-https://github.com/guwayriam/odin-recipes/settings/pages#:~:text=https%3A//guwayriam.github.io/odin%2Drecipes/
-
+https://guwayriam.github.io/odin-recipes/
